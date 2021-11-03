@@ -25,8 +25,8 @@ body p{
 #Header{
     height: 200px;
     background-color: white;
-    border-top-left-radius: 30px;
-    border-top-right-radius: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     
 }
 #Header p{
@@ -55,7 +55,7 @@ body p{
     padding-left: 30px;
     padding-top: 30px;
     width: 320px;
-    border-bottom-left-radius:30px ;
+    border-bottom-left-radius:10px ;
  
 }
 
@@ -99,8 +99,8 @@ body p{
     width:350px
     clear: both;
     height: 255px;
-    border-bottom-left-radius:30px ;
-    border-bottom-right-radius:30px ;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
     
 }
 
